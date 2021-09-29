@@ -1,4 +1,4 @@
-package CCA.CONCORDIA.CEJV416.FALL2021.CLASS4;
+package concordia.cce.fall2021.cejv416.class04;
 
 import java.text.NumberFormat;
 import java.util.Scanner;

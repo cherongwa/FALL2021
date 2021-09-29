@@ -1,4 +1,4 @@
-package CCA.CONCORDIA.CEJV416.FALL2021.CLASS3;
+package concordia.cce.fall2021.cejv416.class03;
 
 public class exercise5 {
     public static void main(String[] args) {

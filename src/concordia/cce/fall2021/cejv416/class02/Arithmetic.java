@@ -1,4 +1,4 @@
-package CCA.CONCORDIA.CEJV416.FALL2021.CLASS2;
+package concordia.cce.fall2021.cejv416.class02;
 
 public class Arithmetic {
     public static void main(String[] args) {
